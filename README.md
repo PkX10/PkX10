@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on developing myself<br>I am studying VLSI in Maven Silicon<br>I completed my Virtual Internship at Google Cloud<br>on Google Generative AI<br>I am about to complete my degree in ECE<br>Looking to work in various projects<br>I have experience in Arduino, ESP32 & Raspberry PI<br>I am a Linux User<br>
+I am currently working on developing myself<br>I completed VLSI SoC Dessign using Verilog HDL in Maven Silicon<br>I completed my Virtual Internship at Google Cloud<br>on Google Generative AI<br>I am about to complete my degree in ECE<br>Looking to work in various projects<br>I have experience in Arduino, ESP32 & Raspberry PI<br>I am a Linux User<br>
 
 
 ## 🌐 Socials:
